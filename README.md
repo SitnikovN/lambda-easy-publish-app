@@ -1,0 +1,1 @@
+# lambda-easy-publish-app
